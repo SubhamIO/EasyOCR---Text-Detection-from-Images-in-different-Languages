@@ -1,0 +1,1 @@
+# EasyOCR---Text-Detection-from-Images-in-different-Languages
